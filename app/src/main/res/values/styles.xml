@@ -1,0 +1,158 @@
+<!--
+  ~ Copyright 2017 Google Inc. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="theme_image">@drawable/frog</item>
+    </style>
+
+    <style name="TextAppearance.Uamp.Title" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.Uamp.Subtitle" parent="@style/TextAppearance.AppCompat.Small">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="MediaStateIcon">
+        <item name="tint">@color/mediaControlColor</item>
+        <item name="android:layout_margin">@dimen/media_item_control_margin</item>
+    </style>
+
+    <style name="MediaItemList">
+        <item name="android:background">@color/mediaListBackground</item>
+        <item name="android:paddingBottom">2dp</item>
+        <!-- In order to account for optical illusions,
+        make the end padding a bit larger so it visually looks the same. -->
+        <item name="android:paddingEnd">3dp</item>
+        <item name="android:paddingStart">2dp</item>
+        <item name="android:paddingTop">2dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppThemeBlack" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlack</item>
+        <item name="colorInfoStation">@color/colorInfoStationBlack</item>
+        <item name="colorAccent">@color/colorAccentBlack</item>
+        <item name="theme_image">@drawable/black_gradient</item>
+        <item name="colorHome">@color/colorHomeBlack</item>
+    </style>
+
+    <style name="AppThemeAbout" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorInfoStation">@color/colorInfoStationBlack</item>
+        <item name="colorAccent">@color/colorAccentBlack</item>
+        <item name="theme_image">@drawable/black_gradient</item>
+        <item name="colorHome">@color/colorHomeBlack</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="colorInfoStation">@color/colorInfoStationGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="theme_image">@drawable/green_gradient</item>
+        <item name="colorHome">@color/colorHomeGreen</item>
+    </style>
+
+    <style name="AppThemeBlue" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="colorInfoStation">@color/colorInfoStationBlue</item>
+        <item name="colorAccent">@color/colorAccentBlue</item>
+        <item name="theme_image">@drawable/blue_gradient</item>
+        <item name="colorHome">@color/colorHomeBlue</item>
+    </style>
+
+    <style name="AppThemeViolet" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryViolet</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkViolet</item>
+        <item name="colorInfoStation">@color/colorInfoStationViolet</item>
+        <item name="colorAccent">@color/colorAccentViolet</item>
+        <item name="theme_image">@drawable/violet_gradient</item>
+        <item name="colorHome">@color/colorHomeViolet</item>
+    </style>
+
+    <style name="AppThemeFrog" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryFrog</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkFrog</item>
+        <item name="colorAccent">@color/colorPrimaryFrog</item>
+        <item name="theme_image">@drawable/frog</item>
+    </style>
+
+    <style name="AppThemeLion" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryLion</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkLion</item>
+        <item name="colorAccent">@color/colorPrimaryLion</item>
+        <item name="theme_image">@drawable/lion</item>
+    </style>
+
+    <style name="AppThemeChicken" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryChicken</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkChicken</item>
+        <item name="colorAccent">@color/colorPrimaryChicken</item>
+        <item name="theme_image">@drawable/chicken</item>
+    </style>
+
+    <style name="AppThemeSantaClaus" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimarySantaClaus</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSantaClaus</item>
+        <item name="colorAccent">@color/colorPrimarySantaClaus</item>
+        <item name="theme_image">@drawable/santaclaus</item>
+    </style>
+
+    <style name="AppThemeMaiden" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryMaiden</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMaiden</item>
+        <item name="colorAccent">@color/colorPrimaryMaiden</item>
+        <item name="theme_image">@drawable/maiden</item>
+    </style>
+
+    <style name="AppThemeOwlet" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryOwlet</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkOwlet</item>
+        <item name="colorAccent">@color/colorPrimaryOwlet</item>
+        <item name="theme_image">@drawable/owlet</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+</resources>

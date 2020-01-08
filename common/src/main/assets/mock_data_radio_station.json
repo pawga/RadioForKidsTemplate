@@ -1,0 +1,443 @@
+[
+  {
+    "description": "Первая национальная радиостанция России",
+    "id": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "stream": "https://rusradio.hostingradio.ru/rusradio96.aacp"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "name": "Русское Радио",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/rus_radio.png"
+  },
+  {
+    "description": "Радио №1 в России!",
+    "id": "http://ep128.hostingradio.ru:8030/ep128",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://ep128.hostingradio.ru:8030/ep128",
+        "stream": "http://ep128.hostingradio.ru:8030/ep128"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://ep128.hostingradio.ru:8030/ep128",
+    "name": "Европа Плюс",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/evropa.png"
+  },
+  {
+    "description": "Русская и западная поп-музыка",
+    "id": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.6619075035655808",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.6619075035655808",
+        "stream": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.6619075035655808"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.6619075035655808",
+    "name": "Хит FM",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/hit_fm.png"
+  },
+  {
+    "description": "Модная, динамичная и позитивная музыка",
+    "id": "http://stream2.n340.com/12_love_24_reg_60967?type=.aac&UID=6B1B1995284215293405882908555BDF",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://stream2.n340.com/12_love_24_reg_60967?type=.aac&UID=6B1B1995284215293405882908555BDF",
+        "stream": "http://stream2.n340.com/12_love_24_reg_60967?type=.aac&UID=6B1B1995284215293405882908555BDF"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://stream2.n340.com/12_love_24_reg_60967?type=.aac&UID=6B1B1995284215293405882908555BDF",
+    "name": "Love Radio",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/love.png"
+  },
+  {
+    "description": "ЕвроХит · Топ 40",
+    "id": "http://eptop128server.streamr.ru:8033/eptop128",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://eptop128server.streamr.ru:8033/eptop128",
+        "stream": "http://eptop128server.streamr.ru:8033/eptop128"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://eptop128server.streamr.ru:8033/eptop128",
+    "name": "Европа Top40",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/evropa.png"
+  },
+  {
+    "description": "Поп музыка и диско разных лет",
+    "id": "http://ic2.101.ru:8000/v3_1",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://ic2.101.ru:8000/v3_1",
+        "stream": "http://ic2.101.ru:8000/v3_1"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://ic2.101.ru:8000/v3_1",
+    "name": "Авторадиo",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/avto_radio.png"
+  },
+  {
+    "description": "Слушай · Чувствуй · Мечтай",
+    "id": "http://ic2.101.ru:8000/v4_1",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://ic2.101.ru:8000/v4_1",
+        "stream": "http://ic2.101.ru:8000/v4_1"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://ic2.101.ru:8000/v4_1",
+    "name": "Радио Romantika",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/rom.png"
+  },
+  {
+    "description": "Бесценная коллекция главных отечественных хитов",
+    "id": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+        "stream": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+    "name": "Золотой Граммофон",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/solotoi_gramafon.png"
+  },
+  {
+    "description": "Мелодичная, романтичная, легкая музыка",
+    "id": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp",
+        "stream": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp",
+    "name": "Монте-Карло",
+    "type": "RadioForParents",
+    "image": "https://pawga.ru/slushay_fm/monte.png"
+  },
+  {
+    "description": "A musical story from Russia",
+    "id": "http://pawga.ru/music/Eng/Auditions/sadko-storynory.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/sadko-storynory.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/sadko-storynory.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/sadko-storynory.mp3",
+    "name": "Sadko",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "A single song by the chiX our fictional girl band",
+    "id": "http://pawga.ru/music/Eng/Auditions/Circus.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/Circus.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/Circus.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/Circus.mp3",
+    "name": "Life is a Circus",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Christmas carols are gorgeous",
+    "id": "http://pawga.ru/music/Eng/Auditions/bethlehem.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/bethlehem.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/bethlehem.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/bethlehem.mp3",
+    "name": "O Little Town of Bethlehem",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "The traditional Christmas carol",
+    "id": "http://pawga.ru/music/Eng/Auditions/christmas.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/christmas.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/christmas.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/christmas.mp3",
+    "name": "Wenceslas Christmas Carol",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Poems",
+    "id": "http://pawga.ru/music/Eng/Auditions/georgia.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/georgia.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/georgia.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/georgia.mp3",
+    "name": "Georgia and the Dragon",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Poem by Edgar Allan Poe",
+    "id": "http://pawga.ru/music/Eng/Auditions/raven.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://pawga.ru/music/Eng/Auditions/raven.mp3",
+        "stream": "http://pawga.ru/music/Eng/Auditions/raven.mp3"
+      }
+    ],
+    "locale": "en_EN",
+    "bitrate": 0,
+    "stream": "http://pawga.ru/music/Eng/Auditions/raven.mp3",
+    "name": "The Raven",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Джанни Родари",
+    "id": "http://mp3tales.info/audio/priklucheniya_chipollino_3.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/priklucheniya_chipollino_3.mp3",
+        "stream": "http://mp3tales.info/audio/priklucheniya_chipollino_3.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/priklucheniya_chipollino_3.mp3",
+    "name": "Приключения Чиполлино",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Музыкальный спектакль",
+    "id": "http://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3",
+        "stream": "http://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/prikljuchenija_porosenka_funtika.mp3",
+    "name": "Приключения поросенка Фунтика",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Мюзикл, в основу которого положена русская народная сказка",
+    "id": "http://mp3tales.info/audio/letuchij_korabl.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/letuchij_korabl.mp3",
+        "stream": "http://mp3tales.info/audio/letuchij_korabl.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/letuchij_korabl.mp3",
+    "name": "Летучий корабль",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Сказка С. Маршака",
+    "id": "http://mp3tales.info/audio/koshkin_dom.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/koshkin_dom.mp3",
+        "stream": "http://mp3tales.info/audio/koshkin_dom.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/koshkin_dom.mp3",
+    "name": "Кошкин дом",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Инсценировка Л. Закашанской по мотивам сказки А. Толстого",
+    "id": "http://mp3tales.info/audio/neverojatnye_prikljuchenija_buratino.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/neverojatnye_prikljuchenija_buratino.mp3",
+        "stream": "http://mp3tales.info/audio/neverojatnye_prikljuchenija_buratino.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/neverojatnye_prikljuchenija_buratino.mp3",
+    "name": "Невероятные приключения Буратино",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Музыкальный спектакль",
+    "id": "http://mp3tales.info/audio/zolushka_1.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/zolushka_1.mp3",
+        "stream": "http://mp3tales.info/audio/zolushka_1.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/zolushka_1.mp3",
+    "name": "Золушка",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Музыкальная сказка по мотивам повести А. Некрасова",
+    "id": "http://mp3tales.info/audio/prikljuchenija_kapitana_vrungelja.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/prikljuchenija_kapitana_vrungelja.mp3",
+        "stream": "http://mp3tales.info/audio/prikljuchenija_kapitana_vrungelja.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/prikljuchenija_kapitana_vrungelja.mp3",
+    "name": "Приключения капитана Врунгеля",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Мюзикл по мотивами сказок К.И. Чуковского",
+    "id": "http://mp3tales.info/audio/doktor_ajbolit_mult.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/doktor_ajbolit_mult.mp3",
+        "stream": "http://mp3tales.info/audio/doktor_ajbolit_mult.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/doktor_ajbolit_mult.mp3",
+    "name": "Доктор Айболит",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Русские народные сказки",
+    "id": "http://dl.mp3tales.info/audio/po_schuchemu_veleniju_1.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://dl.mp3tales.info/audio/po_schuchemu_veleniju_1.mp3",
+        "stream": "http://dl.mp3tales.info/audio/po_schuchemu_veleniju_1.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://dl.mp3tales.info/audio/po_schuchemu_veleniju_1.mp3",
+    "name": "По щучьему велению",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Музыкальная история о приключениях, пиратах и сражениях",
+    "id": "http://mp3tales.info/audio/ostrov_sokrovisch_2.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/ostrov_sokrovisch_2.mp3.mp3",
+        "stream": "http://mp3tales.info/audio/ostrov_sokrovisch_2.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/ostrov_sokrovisch_2.mp3",
+    "name": "Остров сокровищ",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  },
+  {
+    "description": "Как Львенок и Черепаха пели песню",
+    "id": "http://mp3tales.info/audio/kak_lvenok_i_cherepaha_peli_pesnju.mp3",
+    "streams": [
+      {
+        "bitrate": 32,
+        "id": "http://mp3tales.info/audio/kak_lvenok_i_cherepaha_peli_pesnju.mp3",
+        "stream": "http://mp3tales.info/audio/kak_lvenok_i_cherepaha_peli_pesnju.mp3"
+      }
+    ],
+    "locale": "ru_RU",
+    "bitrate": 0,
+    "stream": "http://mp3tales.info/audio/kak_lvenok_i_cherepaha_peli_pesnju.mp3",
+    "name": "Я на солнышке лежу",
+    "type": "Auditions",
+    "image": "https://pawga.ru/slushay_fm/hit_romantica_fm.png"
+  }]

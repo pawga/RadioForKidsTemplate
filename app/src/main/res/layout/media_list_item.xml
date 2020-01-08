@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="radioItem"
+            type="com.pawga.radio.data.db.RadioStationItem"/>
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="84dp">
+
+        <ImageView
+            android:id="@+id/image_station"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="4dp"
+            app:networkImage="@{radioItem.station.image}"
+            android:contentDescription="@string/play_item"
+            android:padding="4dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="4dp"
+            android:layout_toEndOf="@+id/image_station"
+            android:layout_toStartOf="@+id/imageViewFavorite"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="?android:attr/textColorPrimary"
+                tools:text="@{radioItem.station.nameStation}" />
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="?android:attr/textColorSecondary"
+                tools:text="@{radioItem.station.description}" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageViewFavorite"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/like"
+            android:contentDescription="@string/empty_text" />
+
+        <ImageView
+            android:id="@+id/play_eq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:contentDescription="@string/play_item"
+            android:src="@drawable/ic_play_arrow_black_36dp"
+            android:tint="@color/media_item_icon_not_playing"
+            android:tintMode="src_in"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/imageViewMarkRecord"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:visibility="invisible"
+            android:contentDescription="@string/empty_text"
+            app:srcCompat="@drawable/rec_2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:contentDescription="@string/empty_text"
+            android:layout_alignParentBottom="true"
+            android:src="#3affffff" />
+
+    </RelativeLayout>
+</layout>

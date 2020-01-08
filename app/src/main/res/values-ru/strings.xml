@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="album_art_alt">Album art</string>
+    <string name="app_name">Радио для детей</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Все</string>
+    <string name="menu_music_queue">Очередь</string>
+    <string name="menu_send">Послать</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_slideshow">Слайды</string>
+    <string name="menu_tools">Инструменты</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Закрыть navigation drawer</string>
+    <string name="navigation_drawer_open">Открыть navigation drawer</string>
+    <string name="pause">Пауза</string>
+    <string name="play">Играть</string>
+    <string name="skip_back_10s">Вернуться на 10с</string>
+    <string name="skip_forward_10s">Пропустить 10с</string>
+    <string name="title_activity_radiofor_children">RadioforChildrenActivity</string>
+
+    <string name="drawer_select_theme_title">Выбрать тему</string>
+    <string name="drawer_select_languages_title">Языки</string>
+
+    <string name="drawer_all_title">Все</string>
+    <string name="drawer_favorites_title">Избранное</string>
+    <string name="drawer_radio_stations_title">Радиостанции</string>
+    <string name="drawer_songs_title">Детские песни</string>
+    <string name="drawer_nanny_title">Развивающие шоу</string>
+    <string name="drawer_fairy_tales_title">Сказки</string>
+    <string name="drawer_auditions_title">Радиоспектакли</string>
+    <string name="drawer_cartoons_title">Мультфильмы</string>
+    <string name="drawer_for_parents_title">Для родителей</string>
+    <string name="drawer_playlists_title">Плэйлисты</string>
+    <string name="drawer_about_title">О программе</string>
+
+    <string name="str_rate_app">Оценить приложение</string>
+    <string name="str_send_friend">Отправить другу</string>
+    <string name="str_other_app">Другие приложения разработчика</string>
+    <string name="str_about_for_menu">О приложении</string>
+    <string name="action_close">Закрыть</string>
+    <string name="action_exit">Выйти</string>
+    <string name="apply">Готово</string>
+
+    <string name="str_chinese_language">Китайский</string>
+    <string name="str_english_language">Английский</string>
+    <string name="str_german_language">Немецкий</string>
+    <string name="str_japanese_language">Японский</string>
+    <string name="str_french_language">Французский</string>
+    <string name="str_russian_language">Русский</string>
+    <string name="str_spanish_language">Испанский</string>
+
+    <string name="theme_frog">Лягушонок</string>
+    <string name="theme_lion">Львёнок</string>
+    <string name="theme_chicken">Цыплёнок</string>
+    <string name="theme_santaclaus">Дед Мороз</string>
+    <string name="theme_maiden">Снегурочка</string>
+    <string name="theme_owlet">Совёнок</string>
+
+    <string name="str_about_program">Приложение для детей с множеством детских радиостанций, сказок, песен, мультфильмов.</string>
+    <string name="str_about_program_short">Приложение для детей с множеством детских радиостанций, сказок, песен, мультфильмов.</string>
+    <string name="str_version">Версия</string>
+    <string name="str_build">Номер сборки</string>
+    <string name="str_anonce_program">Слушайте любимые радиостанции и на своем компьютере:</string>
+    <string name="str_info_vk">Музыка, полезная информация и другие интересные приложения в нашей группе:</string>
+    <string name="str_count_station">Количество станций</string>
+
+    <string name="currently_playing_song">Текущая композиция</string>
+    <string name="currently_playing_artist">Исполнитель играющей в настоящее время композиции</string>
+    <string name="currently_playing_extra_info">Дополительная информация играющей в настоящее время композиции</string>
+    <string name="play_item">Играть</string>
+    <string name="play_pause">Играть или пауза</string>
+
+
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017 Google Inc. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <color name="colorPrimary">#840255</color>
+    <color name="colorPrimaryDark">#710144</color>
+    <color name="colorAccent">#14A5A1</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="mediaListBackground">#F1F1F1</color>
+
+    <color name="mediaControlColor">#f8f8f8</color>
+
+    <color name="nowPlayingBackground">#eff0f0</color>
+    <color name="nowPlayingWhiteBackground">#fdfdfd</color>
+
+    <color name="menu_icon_tint">#ffffff</color>
+
+    <color name="colorPrimaryFrog">#7f9d19</color>
+    <color name="colorPrimaryDarkFrog">#698217</color>
+    <color name="colorPrimaryLion">#f2b516</color>
+    <color name="colorPrimaryDarkLion">#ec9a0c</color>
+    <color name="colorPrimaryChicken">#ffcb00</color>
+    <color name="colorPrimaryDarkChicken">#ffb400</color>
+    <color name="colorPrimarySantaClaus">#f7404d</color>
+    <color name="colorPrimaryDarkSantaClaus">#dd3e49</color>
+    <color name="colorPrimaryMaiden">#5e8ac6</color>
+    <color name="colorPrimaryDarkMaiden">#517bb3</color>
+    <color name="colorPrimaryOwlet">#009e8f</color>
+    <color name="colorPrimaryDarkOwlet">#028e81</color>
+
+    <color name="colorHiperLink">#4fb2e6</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorPrimaryBlack">#141414</color>
+    <color name="colorPrimaryDarkBlack">#141414</color>
+    <color name="colorInfoStationBlack">#181818</color>
+    <color name="colorSelectStationBlack">#171717</color>
+    <color name="colorAccentBlack">#c8c8c8c8</color>
+    <color name="colorHomeBlack">#202020</color>
+
+    <color name="colorPrimaryGreen">#008024</color>
+    <color name="colorPrimaryDarkGreen">#00691e</color>
+    <color name="colorSelectStationGreen">#39a015</color>
+    <color name="colorInfoStationGreen">#3ea716</color>
+    <color name="colorAccentGreen">#9bf2b3</color>
+    <color name="colorHomeGreen">#77c524</color>
+
+    <color name="colorPrimaryBlue">#0c7adb</color>
+    <color name="colorPrimaryDarkBlue">#0a67b9</color>
+    <color name="colorSelectStationBlue">#2c9ed6</color>
+    <color name="colorInfoStationBlue">#199cab</color>
+    <color name="colorAccentBlue">#a7cdf1</color>
+    <color name="colorHomeBlue">#2eb3b0</color>
+
+    <color name="colorPrimaryViolet">#502d95</color>
+    <color name="colorPrimaryDarkViolet">#4a278f</color>
+    <color name="colorSelectStationViolet">#7307be</color>
+    <color name="colorInfoStationViolet">#7808c6</color>
+    <color name="colorAccentViolet">#aa5ede</color>
+    <color name="colorHomeViolet">#9d0fd7</color>
+
+    <color name="gray">#666666</color>
+    <color name="white">#00ffffff</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#00dddddd</color>
+    <color name="media_item_icon_not_playing">#fff</color>
+
+</resources>

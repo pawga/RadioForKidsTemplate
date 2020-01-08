@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2017 Google Inc. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Radio for Children</string>
+
+    <string name="skip_back_10s">Skip back 10s</string>
+    <string name="skip_forward_10s">Skip forward 10s</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+    <string name="menu_music_queue">Queue</string>
+    <string name="album_art_alt">Album art</string>
+    <string name="duration_unknown" translatable="false">--:--</string>
+    <string name="duration_format" translatable="false">%d:%02d</string>
+    <string name="title_activity_radiofor_children">RadioforChildrenActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">All</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="drawer_select_theme_title">Select a theme</string>
+    <string name="drawer_select_languages_title">Languages</string>
+    <string name="drawer_about_title">About</string>
+
+    <string name="drawer_all_title">All</string>
+    <string name="drawer_favorites_title">Favorites</string>
+    <string name="drawer_radio_stations_title">Radio Stations</string>
+    <string name="drawer_songs_title">Songs</string>
+    <string name="drawer_nanny_title">Educational show</string>
+    <string name="drawer_fairy_tales_title">Fairy Tales</string>
+    <string name="drawer_auditions_title">Auditions</string>
+    <string name="drawer_cartoons_title">Cartoons</string>
+    <string name="drawer_for_parents_title">For Parents</string>
+    <string name="drawer_playlists_title">Playlists</string>
+
+    <string name="str_rate_app">Please rate app</string>
+    <string name="str_send_friend">Send to a friend</string>
+    <string name="str_other_app">Other Applications by this developer</string>
+    <string name="str_about_for_menu">About</string>
+    <string name="action_close">Close</string>
+    <string name="action_exit">Exit</string>
+    <string name="apply">Apply</string>
+
+    <string name="empty_content_description" translatable="false">empty</string>
+    <string name="empty_text" translatable="false">empty</string>
+
+    <string name="str_russian_language">Russian</string>
+    <string name="str_english_language">English</string>
+    <string name="str_german_language">German</string>
+    <string name="str_japanese_language">Japanese</string>
+    <string name="str_french_language">French</string>
+    <string name="str_spanish_language">Spanish</string>
+    <string name="str_chinese_language">Chinese</string>
+
+    <string name="theme_frog">Frog</string>
+    <string name="theme_lion">Lion</string>
+    <string name="theme_chicken">Chicken</string>
+    <string name="theme_santaclaus">Santa Claus</string>
+    <string name="theme_maiden">Maiden</string>
+    <string name="theme_owlet">Owlet</string>
+
+    <string name="str_about_program">An application for children with many children\'s radio stations, fairy tales, songs, cartoons.</string>
+    <string name="str_about_program_short">An application for children with many children\'s radio stations, fairy tales, songs, cartoons.</string>
+    <string name="str_version">Version</string>
+    <string name="str_build">Build number</string>
+    <string name="str_link_to_social_group" translatable="false">https://vk.com/pawga</string>
+    <string name="str_anonce_program">Listen to your favorite radio stations and on your computer:</string>
+    <string name="str_link_to_slushayfm" translatable="false">http://slushayfm.ru</string>
+    <string name="str_info_vk">Music, useful information and other interesting applications in our group:</string>
+    <string name="str_count_station">Number of stations</string>
+
+    <string name="logo_copyright" translatable="false">© Pawga &amp; Digital Mystic</string>
+
+    <string name="currently_playing_song">Song currently playing</string>
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+    <string name="play_item">Play item</string>
+    <string name="play_pause">play or pause</string>
+    <string name="skip_next">skip to next</string>
+    <string name="skip_prev">skip to previous</string>
+
+</resources>

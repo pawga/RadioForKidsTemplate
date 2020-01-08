@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_rate_app"
+        android:title="@string/str_rate_app"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_send_friend"
+        android:title="@string/str_send_friend"
+        app:showAsAction="never"
+        android:visible="true"
+        />
+
+    <item android:id="@+id/action_other_app"
+        android:title="@string/str_other_app"
+        app:showAsAction="never"
+        android:visible="true"
+        />
+
+    <item android:id="@+id/action_about"
+        android:title="@string/str_about_for_menu"
+        app:showAsAction="never"
+        android:visible="true"
+        />
+
+    <item android:id="@+id/action_close"
+        android:title="@string/action_close"
+        android:visible="true"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        android:visible="true"
+        app:showAsAction="never"/>
+</menu>

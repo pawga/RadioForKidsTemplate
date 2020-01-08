@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_splash">
+
+    <fragment
+        android:id="@+id/nav_splash"
+        android:name="com.pawga.radio.ui.splash.SplashFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/splash_fragment" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.pawga.radio.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_favorites"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_favorites_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_select_languages"
+        android:name="com.pawga.radio.ui.languages.SelectLanguagesFragment"
+        android:label="@string/drawer_select_languages_title"
+        tools:layout="@layout/select_languages_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.pawga.radio.ui.about.AboutFragment"
+        android:label="@string/drawer_about_title"
+        tools:layout="@layout/about_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_select_theme"
+        android:name="com.pawga.radio.ui.theme.SelectThemeFragment"
+        android:label="@string/drawer_select_theme_title"
+        tools:layout="@layout/select_theme_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_stations"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_radio_stations_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_fairy_tales"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_fairy_tales_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_auditions"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_auditions_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_songs"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_songs_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_cartoons"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_cartoons_title"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/navigation_nanny"
+        android:name="com.pawga.radio.ui.stations.StationsFragment"
+        android:label="@string/drawer_nanny_title"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>
